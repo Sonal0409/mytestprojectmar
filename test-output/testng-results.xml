@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21030" started-at="2021-03-24T16:48:24Z" finished-at="2021-03-24T16:48:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21030" started-at="2021-03-24T16:48:24Z" finished-at="2021-03-24T16:48:45Z">
+      <class name="com.qa.testcases.Testcase1">
+        <test-method status="PASS" signature="searchPageTest()[pri:49, instance:com.qa.testcases.Testcase1@2f8f11]" name="searchPageTest" duration-ms="20035" started-at="2021-03-24T16:48:24Z" finished-at="2021-03-24T16:48:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchPageTest -->
+        <test-method status="PASS" signature="closebrowser()[pri:50, instance:com.qa.testcases.Testcase1@2f8f11]" name="closebrowser" duration-ms="858" started-at="2021-03-24T16:48:44Z" finished-at="2021-03-24T16:48:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.qa.testcases.Testcase1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
